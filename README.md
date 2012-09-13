@@ -49,4 +49,4 @@ Authors: [SErHo][4]
 [1]: http://wbond.net/sublime_packages/package_control
 [2]: https://github.com/SerhoLiu/SublimeNFFT
 [3]: https://github.com/kairyou/SublimeTmpl
-[4]: http://serholiu.com/SublimeNFFT
+[4]: http://serholiu.com/sublimenfft-plugin
