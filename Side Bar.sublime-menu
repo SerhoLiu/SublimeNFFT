@@ -1,0 +1,80 @@
+[
+    {
+        "caption": "New File (Template)",
+        "children":
+        [
+            {
+                "caption": "Python",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "python",
+                        "ext": "py",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "C",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "c",
+                        "ext": "c",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "C++",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "cpp",
+                        "ext": "cpp",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "HTML",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "html",
+                        "ext": "html",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "CSS",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "css",
+                        "ext": "css",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "PHP",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "php",
+                        "ext": "php",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "Ruby",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "ruby",
+                        "ext": "rb",
+                        "dirs": []
+                    }
+            },
+            {
+                "caption": "Java",
+                "command": "sublime_nfft",
+                "args": {
+                        "type": "java",
+                        "ext": "java",
+                        "dirs": []
+                    }
+            }
+        ]
+    }
+]

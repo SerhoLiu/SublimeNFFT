@@ -1,0 +1,42 @@
+[
+    {
+        "keys": ["ctrl+alt+h"], "command": "sublime_nfft",
+        "args": {
+            "type": "html",
+            "ext": "html",
+            "dirs": []
+        }
+    },
+    {
+        "keys": ["ctrl+alt+j"], "command": "sublime_nfft",
+        "args": {
+            "type": "java",
+            "ext": "java",
+            "dirs": []
+        }
+    },
+    {
+        "keys": ["ctrl+alt+c"], "command": "sublime_nfft",
+        "args": {
+            "type": "c",
+            "ext": "c",
+            "dirs": []
+        }
+    }
+    ,{
+        "keys": ["ctrl+alt+p"], "command": "sublime_nfft",
+        "args": {
+            "type": "python",
+            "ext": "py",
+            "dirs": []
+        }
+    },
+    {
+        "keys": ["ctrl+alt+r"], "command": "sublime_nfft",
+        "args": {
+            "type": "ruby",
+            "ext": "rb",
+            "dirs": []
+        }
+    }
+]

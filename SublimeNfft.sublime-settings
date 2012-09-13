@@ -1,0 +1,26 @@
+{
+    "python": {
+        "syntax": "Packages/Python/Python.tmLanguage"
+    },
+    "c": {
+        "syntax": "Packages/C++/C++.tmLanguage"
+    },
+    "cpp": {
+        "syntax": "Packages/C++/C++.tmLanguage"
+    },
+    "html": {
+        "syntax": "Packages/HTML/HTML.tmLanguage"
+    },
+    "css": {
+        "syntax": "Packages/CSS/CSS.tmLanguage"
+    },
+    "php": {
+        "syntax": "Packages/PHP/PHP.tmLanguage"
+    },
+    "java": {
+        "syntax": "Packages/Java/Java.tmLanguage"
+    },
+    "ruby": {
+        "syntax": "Packages/Ruby/Ruby.tmLanguage"
+    }
+}

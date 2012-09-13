@@ -1,0 +1,66 @@
+[
+    {
+        "caption": "New Python file", "command": "sublime_nfft",
+        "args": {
+            "type": "python",
+            "ext": "py",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New C file", "command": "sublime_nfft",
+        "args": {
+            "type": "c",
+            "ext": "c",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New C++ file", "command": "sublime_nfft",
+        "args": {
+            "type": "cpp",
+            "ext": "cpp",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New html file", "command": "sublime_nfft",
+        "args": {
+            "type": "html",
+            "ext": "html",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New CSS file", "command": "sublime_nfft",
+        "args": {
+            "type": "css",
+            "ext": "css",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New PHP file", "command": "sublime_nfft",
+        "args": {
+            "type": "php",
+            "ext": "php",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New Ruby file", "command": "sublime_nfft",
+        "args": {
+            "type": "ruby",
+            "ext": "rb",
+            "dirs": []
+        }
+    },
+    {
+        "caption": "New Java file", "command": "sublime_nfft",
+        "args": {
+            "type": "java",
+            "ext": "java",
+            "dirs": []
+        }
+    },
+]
